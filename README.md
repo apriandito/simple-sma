@@ -1,2 +1,2 @@
-# simple-tm
-Just a simple text mining example
+# simple-sma
+Just a simple Social Media Analytics Example
